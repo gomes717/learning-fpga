@@ -1,0 +1,9 @@
+
+
+
+module test_1(
+			input a,
+			input b,
+			output c
+			)
+			
